@@ -1,0 +1,6 @@
+aiogram>=3.0
+python-dotenv
+pytesseract
+Pillow
+wikipedia-api
+aiohttp
